@@ -59,4 +59,9 @@ git clone https://github.com/Alexis-Gerez/sports-performance-analytics.git
 pip install -r requirements.txt
 
 # Ejecutar el análisis de datos
-python python app.py
+python scripts/eda_entrenamiento.py
+
+# Ejecutar dashboard interactivo
+python dashboard_interactivo.py
+
+
