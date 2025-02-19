@@ -1,2 +1,0 @@
-Uid,Vo2Max,MaximalMet,MaxHrm,MinHrm,RecordMaxHrm,DailyCalGoal,DailyStepGoal,InitialWeight,ChildAuth,InitialTime,DailyStandGoal,DailySleepGoal,RegularGoalList
-6762854051,0,0,0,0,"{""hrm"":186,""source"":""auto""}",400,6000,"{""weight"":60,""timestamp"":1729618535}",0,0,0,0,"[{""field"":2,""target"":400},{""field"":1,""target"":6000},{""field"":4,""target"":30}]"
