@@ -1,6 +1,0 @@
-Uid,Sid,Identifier,Model,Name,Alias,Status,CreateTime,UpdateTime
-6762854051,hlth.gen_117317279154426,68c76fb6-4b19-48b4-9d68-676f292e8370,mihlth.xiaomi.fitness.phone,moto g51 5G,moto g51 5G,2,1738765676285281079,1739491273046147933
-6762854051,xiaomiwear_app,xiaomiwear_app,mihlth.xiaomi.fitness.app,Mi Fitness,,2,1729613215641810110,1739491273044352713
-6762854051,xiaomiwear_app_manually,xiaomiwear_app_manually,mihlth.xiaomi.fitness.manually,Add data,,2,1729613215640670966,1739491273044158969
-6762854051,850761032,850761032,miwear.watch.n66gl,Xiaomi Smart Band 9   ,,1,1729613239770480704,1738765680924279988
-6762854051,hlth.gen_107720228208711,e49822cc-70a8-486c-b785-86fbfaf41abb,mihlth.xiaomi.fitness.phone,moto g51 5G,moto g51 5G,2,1729613215646146605,1729613215646146708
